@@ -8,7 +8,7 @@ Note: If you have not installed expo cli on your pc, please install it first by 
 1. git clone the project
 2. Install dependencies by running 'yarn install'.
 3. run the bundler with command 'expo start'.
-4. Type W to open web version of the project.
+4. Type w to open web version of the project.
 5. Run automated tests by running 'yarn run test'.
 
 
