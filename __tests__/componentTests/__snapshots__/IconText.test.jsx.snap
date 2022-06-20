@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapShot 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+      },
+      undefined,
+    ]
+  }
+>
+  <Text />
+  <Text
+    style={
+      Object {
+        "fontSize": 13,
+        "marginLeft": 2,
+        "textAlign": "left",
+      }
+    }
+  >
+    Email
+  </Text>
+</View>
+`;

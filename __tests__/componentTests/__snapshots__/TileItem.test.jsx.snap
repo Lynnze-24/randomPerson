@@ -1,0 +1,154 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapShot 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#f0edf6",
+        "borderRadius": 10,
+        "elevation": 11,
+        "flexDirection": "row",
+        "height": 125,
+        "justifyContent": "space-evenly",
+        "margin": 10,
+        "shadowColor": "#000",
+        "shadowOffset": Object {
+          "height": 5,
+          "width": 0,
+        },
+        "shadowOpacity": 0.36,
+        "shadowRadius": 6.68,
+        "width": 400,
+      },
+      Object {
+        "height": 140,
+        "width": 530,
+      },
+      false,
+    ]
+  }
+  testID="tileItem"
+>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#6200ee",
+          "borderRadius": 30,
+          "height": 60,
+          "width": 60,
+        },
+        undefined,
+      ]
+    }
+    testID="avatar"
+  >
+    <Image
+      source={1}
+      style={
+        Object {
+          "borderRadius": 30,
+          "height": 60,
+          "width": 60,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "width": 250,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 18,
+          "width": 200,
+        }
+      }
+    >
+      Aung
+    </Text>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+          },
+          Object {
+            "flex": 1.5,
+          },
+        ]
+      }
+    >
+      <Text />
+      <Text
+        style={
+          Object {
+            "fontSize": 13,
+            "marginLeft": 2,
+            "textAlign": "left",
+          }
+        }
+      >
+        gmail.com
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+          },
+          undefined,
+        ]
+      }
+    >
+      <Text />
+      <Text
+        style={
+          Object {
+            "fontSize": 13,
+            "marginLeft": 2,
+            "textAlign": "left",
+          }
+        }
+      >
+        999
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+          },
+          Object {
+            "flex": 1.5,
+          },
+        ]
+      }
+    >
+      <Text />
+      <Text
+        style={
+          Object {
+            "fontSize": 13,
+            "marginLeft": 2,
+            "textAlign": "left",
+          }
+        }
+      >
+        bago
+      </Text>
+    </View>
+  </View>
+</View>
+`;
