@@ -17,4 +17,5 @@ Notice:
 1. The project will not work on android and ios for the moment because react native does not allow some line breaks in android and ios.
    A lot of line breaks were used in this project for code readability.
 2. Web version will be responsive for 400px screen width and higher.
+3. Device.jsx is for later use of the project when I develop android and ios versions.
 
